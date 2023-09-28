@@ -1,5 +1,8 @@
 def print_characters():
     # Your task is to use a for loop to iterate over the characters in the string "Python" and print each character.
+    string_name = "Python"
+    for element in string_name:
+        print(element)
     pass
 
 def main():
