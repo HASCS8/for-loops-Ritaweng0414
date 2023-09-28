@@ -4,6 +4,7 @@ def print_rectangle():
     # ***
     # ***
     # ***
+    
     pass
 
 def main():
